@@ -68,3 +68,4 @@ class Main {
 - Optional commas are included (between properties and array elements).
 - Pretty formatting adds indentation and newlines.
 - You can turn off commas and pretty formatting by passing false to `saveToFile()` parameters.
+- 
