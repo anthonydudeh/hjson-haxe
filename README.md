@@ -45,3 +45,7 @@ trace(output);
 HJSON.saveToFile(data, "data.hjson");
 var readData = HJSON.parseFile("data.hjson", true);
 ```
+
+---
+
+Read [CHANGELOG.md](https://github.com/anthonydudeh/hjson-haxe/blob/main/CHANGELOG.md) for the fixes made.
