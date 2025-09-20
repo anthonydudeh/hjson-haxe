@@ -1,0 +1,12 @@
+{
+  "name": "hjson4haxe",
+  "url": "https://github.com/YuriwasNOThere/hjson4haxe",
+  "license": "MIT",
+  "tags": ["hjson", "json", "parser", "writer", "config", "file"],
+  "description": "A HJSON parser and writer for Haxe. Supports optional commas, pretty formatting, and file I/O.",
+  "version": "1.0.0",
+  "releasenote": "Initial release with Tokenizer, Parser, Writer, and public HJSON API class.",
+  "contributors": ["Anthony"],
+  "dependencies": {},
+  "classPath": "src"
+}
