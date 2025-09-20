@@ -1,12 +1,12 @@
 {
   "name": "hjson4haxe",
-  "url": "",
+  "url" : "https://github.com/anthonydudeh/hjson-haxe",
   "license": "MIT",
-  "tags": ["hjson", "json", "parser", "writer", "config", "file"],
-  "description": "This library is deprecated, please do NOT use it until its fixed.",
-  "version": "1.0.2",
-  "releasenote": "Deprecated.",
+  "tags": ["hjson", "parser", "writer", "file"],
+  "description": "An Haxe library for reading and parsing HJSON files.",
+  "version": "1.0.3",
+  "classPath": "src/",
+  "releasenote": "Fixed HJSONWriter errors and remade folder structure.",
   "contributors": ["Anthony"],
-  "dependencies": {},
-  "classPath": ""
+  "dependencies": {}
 }
